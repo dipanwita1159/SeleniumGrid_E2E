@@ -11,7 +11,7 @@ import com.mohs10.reuse.CommonFuns;
 public class HomeTest extends StartBrowser {
 
 	
-	  String excelfile = "C:\\Users\\DELL\\demo\\TestData\\Data.xlsx";
+	  String excelfile = "TestData\\Data.xlsx";
 	  String excelsheet = "Login"; 
 	 
       //WebDriver driver;
